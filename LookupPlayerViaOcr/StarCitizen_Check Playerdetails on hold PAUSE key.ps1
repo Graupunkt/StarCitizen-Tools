@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Graupunkt 
-Graupunkt
-/
-StarCitizen-Tools
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-StarCitizen-Tools/StarCitizen_Check Playerdetails on hold PAUSE key.ps1
-@Graupunkt
-Graupunkt Add files via upload
-Latest commit ba09b2a 3 minutes ago
- History
- 1 contributor
-188 lines (160 sloc)  7.13 KB
-
 using namespace Windows.Storage
 using namespace Windows.Graphics.Imaging
 Add-Type -AssemblyName System.Drawing
@@ -215,18 +186,3 @@ while ($true)
     }
     Start-Sleep -Milliseconds 700
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-StarCitizen-Tools/StarCitizen_Check Playerdetails on hold PAUSE key.ps1 at main · Graupunkt/StarCitizen-Tools
