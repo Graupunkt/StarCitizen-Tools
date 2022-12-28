@@ -13,4 +13,4 @@ Usage:
 
 Screenshots:
 
-![Example](StarCitizen_Screenshot_GrabPlaytimeFromLogfile.jpg)
+![Example](StarCitizen_Screenshot_GrabPlaytimeFromLogfile2.jpg)
