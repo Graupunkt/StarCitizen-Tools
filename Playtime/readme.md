@@ -9,6 +9,7 @@ Usage:
 - download the ps1 file and run powershell the script (rightclick -> run with powershell)
 - and wait for it to parse through each logfile and extract playtimes
 - after all logfiles have been parsed, the total playtime is shown in the last line
+- at the current state it does not differentiate between Main Menu and PU, currently it grabs the full time the game was running
 
 Screenshots:
 
