@@ -10,4 +10,5 @@ Usage:
 - after all logfiles have been parsed, the total playtime is shown in the last line
 
 Screenshots:
+
 ![Example](StarCitizen_Screenshot_GrabPlaytimeFromLogfile.jpg)
